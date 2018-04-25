@@ -78,4 +78,4 @@ the work you've done to your remote, and then let's see what this image looks
 like on a live page. Fire up `httpserver` and take a look at our `index.html`
 page, we'll see that the image has appeared.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/html-images' title='HTML Images'>HTML Images</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG HTML Images</p>
