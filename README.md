@@ -78,4 +78,7 @@ the work you've done to your remote, and then let's see what this image looks
 like on a live page. Fire up `httpserver` and take a look at our `index.html`
 page, we'll see that the image has appeared.
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-html-images/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-html-images/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG HTML Images</p>
